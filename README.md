@@ -5,7 +5,7 @@
 <div align="center">
   <picture>
   <source
-    srcset="https://streak-stats.demolab.com?user=Lela810&locale=de&date_format=j%20M%5B%20Y%5D&mode=weekly"
+    srcset="https://streak-stats.demolab.com?user=Lela810&theme=dark&locale=de&date_format=j%20M%5B%20Y%5D&mode=weekly"
     media="(prefers-color-scheme: dark)"
   />
   <source
