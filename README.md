@@ -3,8 +3,20 @@
 ###
 
 <div align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com?user=Lela810&locale=de&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+  <picture>
+  <source
+    srcset="https://streak-stats.demolab.com?user=Lela810&locale=de&date_format=j%20M%5B%20Y%5D&mode=weekly"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://streak-stats.demolab.com?user=Lela810&locale=de&date_format=j%20M%5B%20Y%5D&mode=weekly"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://streak-stats.demolab.com?user=Lela810&locale=de&date_format=j%20M%5B%20Y%5D&mode=weekly" />
+</picture>
 </div>
+
+
 
 ###
 <div align="center">
